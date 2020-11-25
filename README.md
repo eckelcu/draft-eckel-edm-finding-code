@@ -1,5 +1,4 @@
-# draft-eckelcu-shmoo-ietf-hackathon
-
+# draft-eckelcu-edm-finding-code
 This repository contains a personal [IETF Internet-Drafts](https://www.ietf.org/standards/ids/) that has not yet been adopted by an IETF working group. The draft is in Markdown format. XML and text versions of the draft, as required for [draft submission](https://datatracker.ietf.org/submit/) are generated using:
 
 * [kramdown-rfc2629](https://github.com/cabo/kramdown-rfc2629/blob/master/README.md) to convert from Markdown to XML
